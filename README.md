@@ -1,1 +1,5 @@
-# awesome-ai-sdk
+# Awesome AI SDK
+
+## Courses
+
+## Showcases
